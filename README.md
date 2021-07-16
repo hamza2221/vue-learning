@@ -1,4 +1,4 @@
-# project4-quickgame
+# SMALL ADD TO CART PROJECT
 
 ## Project setup
 ```
@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
